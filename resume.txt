@@ -1,0 +1,103 @@
+DEEP MEHTA
+dm2399@rit.edu 
+GitHub - https://github.com/deepmehta922000
+LinkedIn - https://www.linkedin.com/in/deep-mehta-038ba91aa 
+
+SUMMARY
+Data Scientist proficient in Python, Java, R, and SQL, specializing in machine learning, deep learning, and algorithm optimization. Accomplished in developing and fine-tuning algorithms for data analysis. Eager to contribute expertise in driving data-driven decisions and solutions in a dynamic and challenging environment.
+
+EDUCATION
+Rochester Institute of Technology, Rochester | Master Data Science (GPA: 3.9/4.00)
+Courses: Foundation Data Science, Advanced Statistics, Neural Networks, Relation Databases, Non-Relational Databases, Business Analytics and Intelligence
+
+SKILLS
+Programming Languages: Python, R, SQL, Java, C, MongoDB, XML
+Python Libraries: Pandas, NumPy, Keras, NLTK, SciPy, Matplotlib, Seaborn, TensorFlow, PyTorch
+Additional Tools: Tableau, PowerBI, RStudio, Git, AWS, Excel, Matlab, Minitab, JmpPro, OpenAI API
+Hard Skills: Data Analysis, Statistics, Database, Machine Learning, Deep Learning, Data Visualization, Quantitative Analysis, Big Data
+
+EXPERIENCE
+Lead Data Science Intern | S.A.K.E.C June 2021 – Aug 2021
+- Spearheaded the development of personalized course recommendations, reduced MAE by 12%, and increased precision by 15%.
+- Led a cross-functional team of developers in the implementation of collaborative, content-based, neural collaborative, and TF-IDF-enhanced NLP filtering algorithms reducing response time by 30%.
+- Employed Python libraries like Pandas and NumPy to preprocess and merge 7 datasets, reducing data discrepancies by 10%.
+
+Artificial Intelligence Intern | Digital Infrared Thermography Oct 2020 – June 2022
+- Developed diagnostic software using digital infrared thermography, image processing, and Neural Networks to detect breast.
+- Collaborated with researchers and medical professionals to implement algorithms like SVM, CNN, and Decision trees, resulting in a 92% accuracy.
+- Optimized image processing in MATLAB, reducing preprocessing time by 20% and enhancing overall image quality for comprehensive analysis.
+
+PROJECTS
+Diabetes Readmission Prediction with Machine Learning – Python June 2023
+- Engineered a diabetes patient readmission prediction model with an impressive precision score of 0.91 using sci-kit-learn, and XGBoost.
+- Trained classification models – Decision Trees, Randon Forest, KNN, and Logistic Regression using k-fold cross-validation to get the best model.
+- Utilized the GridSearch CV to find the best hyperparameters and tweak the model accordingly to give a 7% boost to the precision score.
+
+Data Analytics Consulting Virtual Intern | KPMG– Python July 2023
+- Assessed and successfully resolved more than a dozen data quality issues, leading to an improvement in data accuracy and completeness.
+- Demonstrated proficiency in utilizing data analytics tools, particularly Python and SQL enabling data-driven decision-making.
+- Designed an interactive dashboard using Tableau to showcase key performance metrics and data insights for stakeholders.
+
+British Airways: Customer Feedback Analysis & Sentiment Analysis – Python March 2023
+- Orchestrated end-to-end data scraping and cleaning pipelines, ensuring 100% data reliability and consistency.
+- Applied advanced NLP techniques like sentiment analysis, topic modeling, and text classification, extracting insights from customer feedback.
+- Leveraged tools and technology including Beautiful Soup, Scrapy, spaCy, seaborn, and sci-kit-learn, reducing project timelines by 20%.
+
+Liver Disease Prediction with Logistic Regression – Python Dec 2022
+- Employed Logistic Regression and evaluated the model on key performance metrics like precision (0.82), recall (0.94), and F1-measure (0.88).
+- Conducted thorough data preprocessing, applied advanced data imputation methods for handling missing values reducing data redundancy by a factor of 2.
+- Implemented under-sampling to address class imbalance, resulting in a more balanced dataset.
+
+PUBLICATIONS
+Applied Intelligence for Medical Diagnosing June 2022
+Link - https://www.igi-global.com/chapter/applied-intelligence-for-medical-diagnosing/288808
+
+SQL COVID-19 Data Cleaning Project
+github link for SQL COVID-19 Data Cleaning Project - https://github.com/deepmehta922000/SQL_CovidData
+Skills Used: Joints, CTE's, Temp tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Overview
+This is a SQL data cleaning project that explores Covid-19 data. The project uses skills such as joins, CTEs, temp tables, window functions, aggregate functions, creating views, and converting data types. It includes various SQL queries to retrieve data, such as total cases vs total deaths, total cases vs population, and countries with the highest infection rate compared to population. The project also breaks things down by continent and shows continents with the highest death count per population. Finally, the project uses temporary tables and views to store data for later visualizations.
+Covid-19 Data Exploration Project: Detailed Explanation
+
+PowerBi: Data-Professionals Servey's Dashboard
+Skills Used: Power Query, DAX, ETL, Data Analysis, Visualization, Data Modeling, Excel, Dashboard Design
+githuub link for PowerBi: Data-Professionals Servey's Dashboard
+Overview
+This Power BI project analyzes survey data of data professionals to generate insights on demographics, salary, work-life balance, and challenges faced in the data industry. The project provides interactive dashboards to filter data by demographics and presents findings on country-wise salary distribution, work-life balance satisfaction factors, and entry-level positions in the industry. Overall, the project offers valuable insights for individuals and organizations in the data profession.
+
+Tableau: AirBnB Data Visualization
+Skills Used: Excel, SQL, Data Cleaning, Data Visualization, Data Analysis, Geographic Mapping, Dashboard Design, Storytelling, Data Interpretation
+tableau link for this project: https://public.tableau.com/app/profile/deep.viral.mehta/viz/AirBnB_16789938821760/Dashboard1
+Overview
+The project involved analyzing Airbnb data for a specific region using Tableau. Key skills that were essential for the project included data cleaning and preparation, data visualization, data analysis using statistical techniques, geographic mapping using Tableau's tools, dashboard design, storytelling, and data interpretation. The end goal was to gain insights about trends, patterns, and relationships in the data and present them in a way that was easy to understand for the audience.
+
+Social Buzz Initiative
+​Skills Used: Data Analysis, SQL, Big Data, Data Visualization tools (e.g., Tableau), Accenture Sandbox Database, Machine Learning, NLP, Git, Python (NumPy, Pandas), Data Preprocessing, Logistic Regression, Matplotlib, Seaborn
+Embarking on a personal project about Social Buzz, a dynamic player in social media and content creation, I set to leverage my skills and expertise to address their unique challenges. Founded in 2010 by visionary engineers, Social Buzz has rapidly grown to engage over 500 million active users monthly. Took upon overseeing their scaling process, my project encompassed a thorough audit of their big data practices, strategic recommendations for a successful IPO, and an in-depth analysis of their content categories, pinpointing the top 5 with the highest aggregate popularity. Through tasks ranging from creating a cutting-edge big data best practices presentation to conducting on-site data center audits, I aim to demonstrate my proficiency in guiding Social Buzz through this pivotal phase. As they seek external expertise for their IPO journey and data management, this 3-month engagement aims to showcase my capabilities in navigating the complexities of big data and providing valuable insights for their continued success.
+
+​Logistic Regression Classification on Indian Liver Patient Dataset
+​Skills Used: Python, Data preprocessing and cleaning, Logistic regression, Model evaluation and selection, Plotting ROC and PR curves, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Git
+github - https://github.com/deepmehta922000/Two_in_One_Diamond_ILPD
+​Used the Indian Liver Patient dataset and preprocessed it to take care of null values and replace categorical attributes using one-hot encoding. Then I divided the dataset into a 70:30 ratio for training and testing. I learned a Logistic Regression classifier on the training set and evaluated it on the test set using various evaluation measures such as accuracy, error rate, TPR, FPR, TNR, FNR, sensitivity, specificity, precision, recall, and F-measure. I also plotted the ROC and PR curves and determined the optimal threshold for achieving a desired evaluation metric. Overall, this project was about building and evaluating a machine learning model for predicting liver disease in patients.
+
+Predicting Diamond Prices Using Linear Regression
+Skills Used: Python, Linear Regression, Feature Selection, Model Evaluation, Data Analysis, Data Visualization, Statistical Modeling, Machine Learning, Model Evaluation, Interpretation, Communication of Results, Git
+https://github.com/deepmehta922000/Two_in_One_Diamond_ILPD
+In this project, I explored the Diamonds dataset by building a linear regression model to predict the price of a diamond based on its carat size. I experimented with adding explanatory variables and applied transformations to improve the model. Finally, I predicted diamond prices in the test set and calculated the mean absolute error. One limitation of the model is its inability to predict prices accurately 20 years into the future.
+
+Indian Liver Patient Dataset: Exploratory Analysis and Classification
+Skills Used: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn ,K-nearest neighbors (K-NN), Decision Tree, Random Forest, Logistic Regression, Artificial Neural Networks (ANNs), One-hot encoding, Cross-validation, Git
+github - https://github.com/deepmehta922000/Two_in_One_Diamond_ILPD
+For the Indian Liver Patient Dataset, exploratory analysis and preprocessing techniques were used to handle missing values, transform categorical variables using one-hot encoding and analyze the correlation between the attributes. Decision Tree and K-NN classifiers were then used to classify the patients into those with and without liver disease. Cross-validation was used to train and evaluate the classifiers on the entire dataset, and other classifiers such as Random Forest, Logistic Regression, and ANNs were also compared. The project helped in understanding how to preprocess and analyze medical datasets and develop predictive models for classification.
+
+Diamonds Dataset: Proximity Measures and Nearest Neighbors
+Skills Used: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn ,K-nearest neighbors (K-NN), Decision Tree, Random Forest, Logistic Regression, Artificial Neural Networks (ANNs), One-hot encoding, Cross-validation, Git
+github - https://github.com/deepmehta922000/Two_in_One_Diamond_ILPD
+For the Diamonds dataset, a Python function was designed and implemented to calculate the proximity measure between two data samples. The function was then used to find the k-nearest neighbors for a given data sample. The project helped in gaining insights into the properties of the diamonds dataset
+
+Outlier Detection
+Skills used : Jupyter Notebook, Numpy, Pandas, Matplotlib, seaborn, scikit-learn, Git
+github- https://github.com/deepmehta922000/OutlierDetection
+I used a scatter plot to visualize a 2D dataset and found clusters in certain regions. I then used Local Outlier Factor algorithm to detect anomalies with default and different parameter settings. Using 2 nearest neighbors identified more outliers. Overall, this project helped me understand the performance of the algorithm under different settings. This project helped me learn about the importance of data visualization in identifying patterns and anomalies. I gained experience working with the Local Outlier Factor algorithm and the impact of parameter tuning on its performance. Additionally, I gained insights into the strengths and limitations of using unsupervised learning algorithms for anomaly detection.
+
+Outside of my professional endeavors, I am actively engaged in community service and leadership activities. As a member of the Leo Club, I have participated in various social work initiatives, including food distribution, blood donation drives, visits to orphanages, and providing assistance to children with special needs. These experiences have enriched my life and instilled in me a strong sense of social responsibility. Additionally, I volunteer for IEEE, contributing to the organization's technical workshops and social events. I am currently working on being more active on Kaggle and contributing to open-source projects. For leisure, I enjoy going to the gym, either for a workout or a swim. The blend of technical and leadership experiences reflects my commitment to both personal growth and making a positive impact on the community.
